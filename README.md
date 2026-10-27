@@ -1,27 +1,28 @@
 # Olá, eu sou o Jaaziel Vinicius 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&width=550&lines=Estudante+de+Tecnologia+da+Informa%C3%A7%C3%A3o;Desenvolvedor+de+Software;Focado+em+JavaScript+%26+Node.js;Buscando+oportunidades+na+%C3%A1rea+de+T.I." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&width=580&lines=Estudante+de+Tecnologia+da+Informa%C3%A7%C3%A3o;Desenvolvedor+de+Software+%26+Entusiasta+de+I.A.;Explorando+Intelig%C3%AAncia+Artificial+%26+Inova%C3%A7%C3%A3o;Buscando+oportunidades+na+%C3%A1rea+de+T.I." alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 **Formação**: Estudante de Tecnologia na **Faculdade Descomplica**.
+- 🎓 **Perfil**: Estudante de Tecnologia da Informação (T.I.).
 - 💡 **Objetivo**: Ingressar no mercado de tecnologia em oportunidades de **Estágio** ou **Desenvolvedor Júnior**.
 - 🚀 **Projetos em Destaque**: Criador do [Mefislink](https://github.com/jaazielgvs/Mefislink) — aplicação desktop para gerenciamento multi-sessões desenvolvida com **Electron**, **JavaScript** e **Node.js**.
-- 📚 **Foco Atual**: Aprofundando estudos em lógica, arquitetura de aplicações, consumo de APIs e boas práticas de desenvolvimento de software.
+- 🤖 **Interesse em Inteligência Artificial**: Apaixonado pelo impacto da I.A. na tecnologia e na sociedade, explorando soluções inteligentes, automação e ferramentas de IA para resolver problemas reais.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Linguagens & Frameworks:**
+**Linguagens & Tecnologias:**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Inteligência_Artificial-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
