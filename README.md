@@ -1,7 +1,7 @@
 # Olá, eu sou o Jaaziel Vinicius 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&width=580&lines=Estudante+de+Tecnologia+da+Informa%C3%A7%C3%A3o;Desenvolvedor+de+Software+%26+Entusiasta+de+I.A.;Explorando+Intelig%C3%AAncia+Artificial+%26+Inova%C3%A7%C3%A3o;Buscando+oportunidades+na+%C3%A1rea+de+T.I." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&width=750&lines=Estudante+de+Tecnologia+da+Informa%C3%A7%C3%A3o;Desenvolvedor+de+Software+%26+Entusiasta+de+I.A.;Explorando+Intelig%C3%AAncia+Artificial+%26+Inova%C3%A7%C3%A3o;Buscando+oportunidades+na+%C3%A1rea+de+T.I." alt="Typing SVG" />
 </p>
 
 ---
