@@ -42,13 +42,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jaazielgvs&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaazielgvs&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="165" />
 </p>
-
----
-
-### 📬 Contato
-
-<p align="left">
-  <a href="mailto:jaazielvinicius20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
